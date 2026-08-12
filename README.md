@@ -1,42 +1,85 @@
-# 👋 Hi there, I'm Gopinath C!
+<!-- ====================================================== -->
+<!--                 ANIMATED GITHUB PROFILE                -->
+<!-- ====================================================== -->
+
+<!-- 🌊 ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer;IoT+%26+Embedded+Systems+Enthusiast" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=220&section=header&text=GOPINATH%20C&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
+<!-- ⌨️ TYPING ANIMATION -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GOPINATH1410-captain&label=Profile%20Views&color=00ffff&style=flat" />
-  <img src="https://img.shields.io/github/followers/GOPINATH1410-captain?label=Followers&style=flat" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer;IoT+%26+Embedded+Systems+Enthusiast;Building+Real-World+Technology+Solutions"
+  />
+</p>
+
+<!-- PROFILE BADGES -->
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GOPINATH1410-captain&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/GOPINATH1410-captain?label=FOLLOWERS&style=for-the-badge&color=7B2FF7"/>
+
+<img src="https://img.shields.io/github/stars/GOPINATH1410-captain?label=STARS&style=for-the-badge&color=FFD700"/>
+
 </p>
 
 ---
 
-# 🚀 Electronics & Communication Engineering Student
+# 👋 Hi there, I'm Gopinath C!
 
-### 💻 Aspiring Full Stack Developer | AI & ML Enthusiast | IoT Explorer
+<h3 align="center">
 
-📍 Karimangalam, Dharmapuri, Tamil Nadu, India  
-🎓 B.E. Electronics and Communication Engineering  
-🏫 K.S.R Institute for Engineering and Technology  
-📊 **CGPA: 8.84 / 10**
+🚀 Electronics & Communication Engineering Student
+
+💻 Aspiring Full Stack Developer | 🤖 AI & ML Enthusiast | 👁️ Computer Vision Explorer
+
+🔌 IoT & Embedded Systems Enthusiast
+
+</h3>
+
+<p align="center">
+
+📍 Karimangalam, Dharmapuri, Tamil Nadu, India
+
+🎓 B.E. Electronics and Communication Engineering
+
+🏫 K.S.R Institute for Engineering and Technology
+
+📊 <b>CGPA: 8.84 / 10</b>
+
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 I'm an Electronics and Communication Engineering student passionate about
-building real-world applications using **Software, AI, Web Technologies,
-Computer Vision, and IoT**.
+building **real-world applications** using Software, AI, Web Technologies,
+Computer Vision, and IoT.
+
+### 🚀 What I'm Doing
 
 - 🔭 Currently working on **AI & Full Stack Projects**
 - 🌱 Learning **Full Stack Development**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 👁️ Exploring **Computer Vision & Facial Recognition**
-- 🌐 Interested in **Web & Mobile Application Development**
-- 🔌 Exploring **IoT and Embedded Technologies**
-- 🧠 Interested in **Deep Learning**
-- 💡 Love solving real-world problems using technology
-- ⚡ Quick learner with strong problem-solving skills
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 👁️ Learning **Computer Vision & Facial Recognition**
+- 🧠 Exploring **Deep Learning**
+- 🌐 Building **Web & Mobile Applications**
+- 🔌 Exploring **IoT & Embedded Technologies**
+- 💡 Solving real-world problems using technology
+- ⚡ Improving my programming and problem-solving skills
+
+<br clear="right"/>
 
 ---
 
@@ -44,47 +87,76 @@ Computer Vision, and IoT**.
 
 ## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
+
 </p>
+
+---
 
 ## 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&theme=dark" />
+
 </p>
+
+---
 
 ## 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+---
 
 ## 👁️ Computer Vision
 
-<p>
-<img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Facial%20Recognition-00A8E8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Image%20Processing-4285F4?style=for-the-badge" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Facial%20Recognition-00A8E8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Image%20Processing-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=for-the-badge"/>
+
 </p>
+
+---
 
 ## 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
 </p>
+
+---
 
 ## 🔧 Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,postman" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,postman&theme=dark" />
+
 </p>
 
 ---
@@ -93,23 +165,27 @@ Computer Vision, and IoT**.
 
 ## 🧠 Automated Exam Hall Seating Arrangement System
 
-### Deep Learning-Based Facial Recognition
+<p align="center">
+
+🧠 <b>Deep Learning</b> • 👁️ <b>Computer Vision</b> • 👤 <b>Facial Recognition</b>
+
+</p>
 
 An intelligent system designed to automate student identity verification
 and examination hall seating allocation.
 
-### Features
+### ✨ Features
 
 - 👤 Automated student identity verification
-- 📷 Facial recognition based student identification
-- 🪑 Automated examination hall seating allocation
+- 📷 Facial recognition
+- 🪑 Automated seating allocation
 - 🔐 Improved examination security
 - ⚡ Reduced manual effort
-- 🧠 Deep Learning based recognition
+- 🧠 Deep Learning-based recognition
 
-**Technologies:**
+### ⚙️ Technologies
 
-`Python` `Deep Learning` `Facial Recognition` `Computer Vision`
+`Python` `Deep Learning` `Computer Vision` `Facial Recognition`
 
 ---
 
@@ -117,7 +193,7 @@ and examination hall seating allocation.
 
 A web-based platform designed for students and recruiters.
 
-### Features
+### ✨ Features
 
 - 👨‍🎓 Student Registration
 - 🏢 Recruiter Registration
@@ -125,7 +201,7 @@ A web-based platform designed for students and recruiters.
 - 👥 Role-Based Access
 - 📋 Placement Management
 
-**Technologies:**
+### ⚙️ Technologies
 
 `React.js` `Node.js` `MySQL`
 
@@ -135,29 +211,38 @@ A web-based platform designed for students and recruiters.
 
 ## 💻 Full Stack Development Intern
 
-**Ether Info Tech, Coimbatore — June 2025**
+### Ether Info Tech — Coimbatore | June 2025
 
 Worked with:
 
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Database` `Deployment`
-
----
-
-## 🌐 Web Development Intern
-
-**CoderOne — June 2025**
-
-Worked on:
-
-- 🗄️ MySQL database operations
-- 🔎 SQL queries
-- 📊 Data management
-- ⚡ Real-time project workflows
-- 🤝 Team collaboration
+```text
+HTML
+CSS
+JavaScript
+React.js
+Node.js
+Database
+Deployment
 
 ---
 
 # 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco-HTML%20%7C%20CSS%20%7C%20JavaScript-1BA0D7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-IoT-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-AI%20%26%20Vector%20Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Infosys-AI%20%26%20React.js-0072CE?style=for-the-badge"/>
+
+</p>
+
+### 🏆 Certifications
 
 - ✅ HTML, CSS & JavaScript — Cisco Networking Academy
 - ✅ Introduction to Internet of Things — NPTEL
@@ -173,9 +258,15 @@ Worked on:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GOPINATH1410-captain&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=GOPINATH1410-captain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPINATH1410-captain&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPINATH1410-captain&layout=compact&theme=tokyonight&hide_border=true"
+height="180"
+/>
 
 </p>
 
@@ -185,7 +276,9 @@ Worked on:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=GOPINATH1410-captain&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=GOPINATH1410-captain&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
@@ -195,7 +288,9 @@ Worked on:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOPINATH1410-captain&theme=tokyo-night&hide_border=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=GOPINATH1410-captain&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </p>
 
@@ -203,25 +298,163 @@ Worked on:
 
 # 🎯 Areas of Interest
 
-```text
-Full Stack Development
-Web & Mobile Application Development
-Artificial Intelligence & Machine Learning
-Computer Vision
-Deep Learning
-Facial Recognition
-Image Processing
-Object Detection
-IoT & Embedded Systems
-Real-Time AI Applications
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web%20%26%20Mobile%20Development-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7B2FF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6D00?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Facial%20Recognition-00BCD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Image%20Processing-3F51B5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object%20Detection-795548?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/IoT%20%26%20Embedded%20Systems-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Real--Time%20AI%20Applications-673AB7?style=for-the-badge"/>
+
+</p>
+
+---
 
 # 💪 Strengths
-<p align="center"> <img src="https://img.shields.io/badge/Quick%20Learner-00C853?style=for-the-badge" /> <img src="https://img.shields.io/badge/Problem%20Solving-2962FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Teamwork-7B1FA2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Work%20Under%20Pressure-FF6D00?style=for-the-badge" /> </p>
-⚡ Quick learner
-🧠 Strong problem-solving skills
-🤝 Teamwork and collaboration
-🎯 Ability to work under pressure
-🚀 Passion for learning new technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Quick%20Learner-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Teamwork-7B2FF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Work%20Under%20Pressure-FF6D00?style=for-the-badge"/>
+
+</p>
+
+- ⚡ Quick learner with a passion for technology
+- 🧠 Strong problem-solving skills
+- 🤝 Teamwork and collaboration
+- 🎯 Ability to work under pressure
+- 🚀 Passionate about learning new technologies
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:gopinathc187@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+916374310737">
+<img src="https://img.shields.io/badge/Phone-+91%206374310737-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📍 <b>Karimangalam, Dharmapuri, Tamil Nadu, India</b>
+
+<br>
+
+📧 <b>gopinathc187@gmail.com</b>
+
+<br>
+
+📱 <b>+91 6374310737</b>
+
+</p>
+
+---
 
 # 🌐 Connect With Me
-<p align="center"> <a href="https://github.com/GOPINATH1410-captain"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/gopinath-c-13a551292"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:gopinathc187@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+<p align="center">
+
+<a href="https://github.com/GOPINATH1410-captain">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/gopinath-c-13a551292">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gopinathc187@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Career Objective
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Build+%E2%86%92+Innovate+%E2%86%92+Impact"
+/>
+
+</p>
+
+> To build a successful career in a dynamic organization where I can
+> contribute positively to team objectives while continuously learning
+> and developing professionally.
+
+---
+
+# ⚡ Developer Mindset
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Think;🧠+Learn;💻+Build;🧪+Test;🚀+Deploy;🌍+Impact"
+/>
+
+</p>
+
+---
+
+# 🚀 My Mission
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=7B2FF7&center=true&vCenter=true&width=850&lines=Turning+Ideas+into+Technology;Turning+Technology+into+Solutions;Building+AI-Powered+Real-World+Applications"
+/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 Code • Learn • Build • Innovate • Grow 🚀
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+</p>
+
+<!-- 🌊 ANIMATED FOOTER -->
+
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=130&section=footer&animation=twinkling"
+width="100%"
+/>
+
+</p>
