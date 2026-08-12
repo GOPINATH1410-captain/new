@@ -82,6 +82,48 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 </td>
 </tr>
 </table>
+# 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+I'm an Electronics and Communication Engineering student passionate about building **real-world applications** using Software, AI, Web Technologies, Computer Vision, and IoT.
+
+### 🚀 What I'm Doing
+
+- 🔭 Currently working on **AI & Full Stack Projects**
+- 🌱 Learning **Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 👁️ Learning **Computer Vision & Facial Recognition**
+- 🧠 Exploring **Deep Learning**
+- 🌐 Building **Web & Mobile Applications**
+- 🔌 Exploring **IoT & Embedded Technologies**
+- 💡 Solving real-world problems using technology
+- ⚡ Improving my programming and problem-solving skills
+
+</td>
+
+<td width="35%" align="center">
+
+<img
+  src="YOUR_IMAGE_URL_HERE"
+  width="280"
+  alt="Gopinath C"
+/>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=280&lines=ECE+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer"
+  alt="Typing Animation"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
