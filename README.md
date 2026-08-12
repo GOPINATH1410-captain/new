@@ -3,11 +3,16 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=220&section=header&text=GOPINATH%20C&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=220&section=header&text=GOPINATH%20C&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer;IoT+%26+Embedded+Systems+Enthusiast;Building+Real-World+Technology+Solutions"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer;IoT+%26+Embedded+Systems+Enthusiast;Building+Real-World+Technology+Solutions"
+  />
 </p>
 
 <p align="center">
@@ -46,7 +51,9 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 I'm an Electronics and Communication Engineering student passionate about building **real-world applications** using Software, AI, Web Technologies, Computer Vision, and IoT.
 
@@ -62,7 +69,19 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 - 💡 Solving real-world problems using technology
 - ⚡ Improving my programming and problem-solving skills
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="center">
+
+<img
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif"
+  width="380"
+  alt="Coding Animation"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,8 +111,10 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </p>
@@ -105,9 +126,13 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 <p align="center">
 
 <img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Facial%20Recognition-00A8E8?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Image%20Processing-4285F4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=for-the-badge"/>
 
 </p>
@@ -183,7 +208,17 @@ A web-based platform designed for students and recruiters.
 
 Worked with:
 
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Database` `Deployment`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deployment-7B2FF7?style=for-the-badge"/>
+
+</p>
 
 ---
 
