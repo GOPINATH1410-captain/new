@@ -214,3 +214,14 @@ Image Processing
 Object Detection
 IoT & Embedded Systems
 Real-Time AI Applications
+
+# 💪 Strengths
+<p align="center"> <img src="https://img.shields.io/badge/Quick%20Learner-00C853?style=for-the-badge" /> <img src="https://img.shields.io/badge/Problem%20Solving-2962FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Teamwork-7B1FA2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Work%20Under%20Pressure-FF6D00?style=for-the-badge" /> </p>
+⚡ Quick learner
+🧠 Strong problem-solving skills
+🤝 Teamwork and collaboration
+🎯 Ability to work under pressure
+🚀 Passion for learning new technologies
+
+# 🌐 Connect With Me
+<p align="center"> <a href="https://github.com/GOPINATH1410-captain"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/gopinath-c-13a551292"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:gopinathc187@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
