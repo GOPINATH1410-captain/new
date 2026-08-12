@@ -1,34 +1,19 @@
 <!-- ====================================================== -->
-<!--                 ANIMATED GITHUB PROFILE                -->
+<!--              ANIMATED GITHUB PROFILE                  -->
 <!-- ====================================================== -->
 
-<!-- 🌊 ANIMATED HEADER -->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=220&section=header&text=GOPINATH%20C&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=220&section=header&text=GOPINATH%20C&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 </p>
 
-<!-- ⌨️ TYPING ANIMATION -->
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer;IoT+%26+Embedded+Systems+Enthusiast;Building+Real-World+Technology+Solutions"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer;IoT+%26+Embedded+Systems+Enthusiast;Building+Real-World+Technology+Solutions"/>
 </p>
 
-<!-- PROFILE BADGES -->
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=GOPINATH1410-captain&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/GOPINATH1410-captain?label=FOLLOWERS&style=for-the-badge&color=7B2FF7"/>
-
-<img src="https://img.shields.io/github/stars/GOPINATH1410-captain?label=STARS&style=for-the-badge&color=FFD700"/>
-
+  <img src="https://komarev.com/ghpvc/?username=GOPINATH1410-captain&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/GOPINATH1410-captain?label=FOLLOWERS&style=for-the-badge&color=7B2FF7"/>
+  <img src="https://img.shields.io/github/stars/GOPINATH1410-captain?label=STARS&style=for-the-badge&color=FFD700"/>
 </p>
 
 ---
@@ -63,9 +48,7 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm an Electronics and Communication Engineering student passionate about
-building **real-world applications** using Software, AI, Web Technologies,
-Computer Vision, and IoT.
+I'm an Electronics and Communication Engineering student passionate about building **real-world applications** using Software, AI, Web Technologies, Computer Vision, and IoT.
 
 ### 🚀 What I'm Doing
 
@@ -88,9 +71,7 @@ Computer Vision, and IoT.
 ## 💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"/>
 </p>
 
 ---
@@ -98,9 +79,7 @@ Computer Vision, and IoT.
 ## 🌐 Web Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&theme=dark"/>
 </p>
 
 ---
@@ -109,14 +88,12 @@ Computer Vision, and IoT.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </p>
@@ -128,13 +105,9 @@ Computer Vision, and IoT.
 <p align="center">
 
 <img src="https://img.shields.io/badge/Computer%20Vision-00F7FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Facial%20Recognition-00A8E8?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Image%20Processing-4285F4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=for-the-badge"/>
 
 </p>
@@ -144,9 +117,7 @@ Computer Vision, and IoT.
 ## 🗄️ Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 </p>
 
 ---
@@ -154,9 +125,7 @@ Computer Vision, and IoT.
 ## 🔧 Tools & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,postman&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,postman&theme=dark"/>
 </p>
 
 ---
@@ -171,8 +140,7 @@ Computer Vision, and IoT.
 
 </p>
 
-An intelligent system designed to automate student identity verification
-and examination hall seating allocation.
+An intelligent system designed to automate student identity verification and examination hall seating allocation.
 
 ### ✨ Features
 
@@ -215,14 +183,21 @@ A web-based platform designed for students and recruiters.
 
 Worked with:
 
-```text
-HTML
-CSS
-JavaScript
-React.js
-Node.js
-Database
-Deployment
+`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Database` `Deployment`
+
+---
+
+## 🌐 Web Development Intern
+
+### CoderOne — June 2025
+
+Worked on:
+
+- 🗄️ MySQL database operations
+- 🔎 SQL queries
+- 📊 Data management
+- ⚡ Real-time project workflows
+- 🤝 Team collaboration
 
 ---
 
@@ -242,7 +217,7 @@ Deployment
 
 </p>
 
-### 🏆 Certifications
+### 🏆 Certification List
 
 - ✅ HTML, CSS & JavaScript — Cisco Networking Academy
 - ✅ Introduction to Internet of Things — NPTEL
@@ -258,15 +233,9 @@ Deployment
 
 <p align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=GOPINATH1410-captain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=GOPINATH1410-captain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPINATH1410-captain&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOPINATH1410-captain&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
@@ -276,9 +245,7 @@ height="180"
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=GOPINATH1410-captain&theme=tokyonight&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=GOPINATH1410-captain&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -288,9 +255,7 @@ src="https://streak-stats.demolab.com?user=GOPINATH1410-captain&theme=tokyonight
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=GOPINATH1410-captain&theme=tokyo-night&hide_border=true&area=true"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOPINATH1410-captain&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -404,15 +369,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=GOPINATH1410
 
 <p align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Build+%E2%86%92+Innovate+%E2%86%92+Impact"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Build+%E2%86%92+Innovate+%E2%86%92+Impact"/>
 
 </p>
 
-> To build a successful career in a dynamic organization where I can
-> contribute positively to team objectives while continuously learning
-> and developing professionally.
+> To build a successful career in a dynamic organization where I can contribute positively to team objectives while continuously learning and developing professionally.
 
 ---
 
@@ -420,9 +381,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&
 
 <p align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Think;🧠+Learn;💻+Build;🧪+Test;🚀+Deploy;🌍+Impact"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Think;🧠+Learn;💻+Build;🧪+Test;🚀+Deploy;🌍+Impact"/>
 
 </p>
 
@@ -432,9 +391,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&
 
 <p align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=7B2FF7&center=true&vCenter=true&width=850&lines=Turning+Ideas+into+Technology;Turning+Technology+into+Solutions;Building+AI-Powered+Real-World+Applications"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=7B2FF7&center=true&vCenter=true&width=850&lines=Turning+Ideas+into+Technology;Turning+Technology+into+Solutions;Building+AI-Powered+Real-World+Applications"/>
 
 </p>
 
@@ -448,13 +405,12 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&
 
 </p>
 
-<!-- 🌊 ANIMATED FOOTER -->
+<!-- ====================================================== -->
+<!--                    ANIMATED FOOTER                     -->
+<!-- ====================================================== -->
 
 <p align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=130&section=footer&animation=twinkling"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:00F7FF&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </p>
