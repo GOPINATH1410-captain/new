@@ -51,11 +51,11 @@
 
 # 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm an Electronics and Communication Engineering student passionate about building **real-world applications** using Software, AI, Web Technologies, Computer Vision, and IoT.
+I'm an Electronics and Communication Engineering student passionate about
+building **real-world applications** using Software, AI, Web Technologies,
+Computer Vision, and IoT.
 
 ### 🚀 What I'm Doing
 
@@ -69,21 +69,10 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 - 💡 Solving real-world problems using technology
 - ⚡ Improving my programming and problem-solving skills
 
-</td>
-
-<td width="40%" align="center">
-
-<img
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif"
-  width="380"
-  alt="Coding Animation"
-/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
+
 
 # 🛠️ Tech Stack
 
