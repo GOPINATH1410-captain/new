@@ -392,15 +392,6 @@ Worked on:
 
 ---
 
-# ⚡ Developer Mindset
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Think;🧠+Learn;💻+Build;🧪+Test;🚀+Deploy;🌍+Impact"/>
-
-</p>
-
----
 
 # 🚀 My Mission
 
