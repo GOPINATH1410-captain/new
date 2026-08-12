@@ -49,39 +49,10 @@
 
 ---
 
-# 👨‍💻 About Me
+<!-- ====================================================== -->
+<!--                     👨‍💻 ABOUT ME                       -->
+<!-- ====================================================== -->
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm an Electronics and Communication Engineering student passionate about building **real-world applications** using Software, AI, Web Technologies, Computer Vision, and IoT.
-
-### 🚀 What I'm Doing
-
-- 🔭 Currently working on **AI & Full Stack Projects**
-- 🌱 Learning **Full Stack Development**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 👁️ Learning **Computer Vision & Facial Recognition**
-- 🧠 Exploring **Deep Learning**
-- 🌐 Building **Web & Mobile Applications**
-- 🔌 Exploring **IoT & Embedded Technologies**
-- 💡 Solving real-world problems using technology
-- ⚡ Improving my programming and problem-solving skills
-
-</td>
-
-<td width="40%" align="center">
-
-<img
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif"
-  width="380"
-  alt="Coding Animation"
-/>
-
-</td>
-</tr>
-</table>
 # 👨‍💻 About Me
 
 <table>
@@ -89,9 +60,11 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 
 <td width="65%" valign="top">
 
-I'm an Electronics and Communication Engineering student passionate about building **real-world applications** using Software, AI, Web Technologies, Computer Vision, and IoT.
+### 🚀 Who Am I?
 
-### 🚀 What I'm Doing
+I'm an **Electronics and Communication Engineering student** passionate about building real-world applications using **Software, Artificial Intelligence, Web Technologies, Computer Vision, and IoT**.
+
+### 🔭 What I'm Doing
 
 - 🔭 Currently working on **AI & Full Stack Projects**
 - 🌱 Learning **Full Stack Development**
@@ -103,20 +76,27 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 - 💡 Solving real-world problems using technology
 - ⚡ Improving my programming and problem-solving skills
 
+### 🎓 Education
+
+**B.E. Electronics and Communication Engineering**
+
+🏫 K.S.R Institute for Engineering and Technology  
+📊 **CGPA: 8.84 / 10**
+
 </td>
 
 <td width="35%" align="center">
 
-<img
-  src="YOUR_IMAGE_URL_HERE"
-  width="280"
+<img 
+  src="./profile.jpg"
+  width="300"
   alt="Gopinath C"
 />
 
 <br><br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=280&lines=ECE+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer"
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=300&lines=ECE+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Computer+Vision+Explorer;IoT+Enthusiast"
   alt="Typing Animation"
 />
 
@@ -125,6 +105,19 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 </tr>
 </table>
 
+---
+
+### ⚡ Quick Profile
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ECE%20Student-00F7FF?style=for-the-badge&logo=arduino&logoColor=black" />
+<img src="https://img.shields.io/badge/Full%20Stack-7B2FF7?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-00A8E8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-009688?style=for-the-badge&logo=arduino&logoColor=white" />
+
+</p>
 ---
 
 # 🛠️ Tech Stack
